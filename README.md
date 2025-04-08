@@ -17,4 +17,6 @@ Inventory Chart: A combo chart comparing current stock levels with reorder thres
 Interactive elements such as slicers and dropdowns were incorporated to allow users to filter and explore the data dynamically.
 The layout features professional formatting, dynamic chart titles, and a user-friendly interface to support quick decision-making.
 
-![image](https://github.com/user-attachments/assets/d8fc9ddb-32d9-47d6-aba9-fb9cfec48b0c)
+Dash board:
+https://github.com/user-attachments/assets/3b5c2862-3df0-443d-941d-5d4abcbe5dec
+
